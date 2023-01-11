@@ -33,6 +33,6 @@ Basics jQuery and bootstrap knowledge.
 <p>
 <a href="https://instagram.com/akshay_kate_007
 ">Instagram</a> &ensp;
-<a href="www.linkedin.com/in/dev-akshaykate">LinkedIn</a> &ensp;
+<a href="https://www.linkedin.com/in/dev-akshaykate">LinkedIn</a> &ensp;
 <a href="https://twitter.com/Dev_AkshayKate">Twitter</a> &ensp;
 </p>
